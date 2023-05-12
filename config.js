@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "ai bik j dau",
     introTitle: 'Helo Bạn Bi',
-    introDesc: `Roses are red
+    introDesc: `Roses are red,
     
-    Violets are blue
+    Violets are blue,
     
-    Bạn Bi k yêu tớ
+    Bạn Bi k yêu tớ,
     
    Là bạn Bi ngu`,
     btnIntro: '^^HiHi^^',
