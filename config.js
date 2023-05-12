@@ -14,10 +14,10 @@ const CONFIG = {
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Thế có yêu ko????',
-    btnReply: 'trả lời nhanh lên',
+    btnReply: 'oki',
     reply: 'Yêu vkl thề đéo yêu làm chó',
     mess: 'Tất nhiên rồi ily too',
-    messDesc: 'nhắn rủ đi chơi đi nhanh cái tay lên',
+    messDesc: 'nhắn rủ đi chơi đi',
     btnAccept: 'Okiiiii',
     messLink: 'https://www.facebook.com/messages/t/100004057576701' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
